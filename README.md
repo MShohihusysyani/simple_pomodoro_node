@@ -1,0 +1,5 @@
+# SIMPLE POMODORO NODE JS
+
+# INSTALATION
+
+npm install
