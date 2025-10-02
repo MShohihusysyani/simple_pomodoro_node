@@ -2,4 +2,4 @@
 
 # INSTALATION
 
-npm install
+`npm install`
